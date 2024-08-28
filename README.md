@@ -4,7 +4,7 @@
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Ciência da Computação / Cesar School
 
-## 🚀 Skills
+## 🚀 Minhas Skills
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
