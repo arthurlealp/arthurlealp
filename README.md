@@ -1,22 +1,20 @@
-# 👋 Olá, eu sou Arthur
-
-## 💼 Perfil Profissional
+## 👨‍💻 Olá, eu sou Arthur
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Ciência da Computação / Cesar School
 
-## 🚀 Habilidades
+## 🚀 Skills
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-## 👨‍💻 Linguagens: 
+### Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,c,html,css)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
+### Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
-## ⚙️ Ferramentas:
+### Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
