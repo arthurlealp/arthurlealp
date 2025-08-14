@@ -7,7 +7,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,javascript,c,html,css,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,javascript,c,html,css,github,vscode,java,c)](https://skillicons.dev)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-pacheco.arthurleal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pacheco.arthurleal@gmail.com)](mailto:arthurlealp07@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-pacheco.arthurleal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pacheco.arthurleal@gmail.com)](mailto:pacheco.arthurleal@gmail.com)  
 [![Linkedin: Arthur](https://img.shields.io/badge/-ArthurLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-leal-pacheco-ba8965323/)](https://www.linkedin.com/in/arthur-leal-pacheco-b95058353/)
 
 ---
